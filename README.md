@@ -1,4 +1,9 @@
-### Hi there, I'm Nishan 👋 
+### Hi there, I'm Nishan 👋 ### ⚡ Active Agent Infrastructure & AWS Stack
+
+* **Autonomous Tooling:** Integrated [Agent Toolkit for AWS](https://github.com/aws/agent-toolkit-for-aws) across **Cursor** and **Cline** with automated Model Context Protocol (MCP) server links and local safety guardrails.
+* **Core Agent Runtimes:** Cline, Hermes, OpenClaw, and custom sovereign swarm setups.
+* **Cloud Infrastructure:** Multi-region AWS architecture combined with Cloudflare edge workers and automated FastAPI revenue pipelines.
+* **XTOBE PRIME Layer:** `xtobe/fusion_engine.py` + `xtobe/memory_store.py` — Tier 1 Fast Motor Loop (20ms) ↔ Tier 2 Semantic Twin, local-first encrypted SQLite, no raw kinematics leave device.
 
 * **XTOBE-Ai** | Republic of Panther 🐾
 * Guardian of the PC • Pure Dark Energy
