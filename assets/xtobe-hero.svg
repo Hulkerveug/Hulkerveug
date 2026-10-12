@@ -1,109 +1,110 @@
-<svg width="1600" height="540" viewBox="0 0 1600 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="xtobeTitle xtobeDesc" xmlns="http://www.w3.org/2000/svg">
+  <title id="xtobeTitle">XTOBE — Building Intelligence That Protects Lives</title>
+  <desc id="xtobeDesc">Hero banner for XTOBE. Dark navy background with electric cyan accents, subtle radial highlights, and typographic hierarchy emphasizing the tagline and product pillars: Reactor, Guardian, Hermes, Command.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="540" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#030B17"/>
-      <stop offset="0.38" stop-color="#07182B"/>
-      <stop offset="1" stop-color="#020814"/>
+      <stop offset="0" stop-color="#050812"/>
+      <stop offset="0.45" stop-color="#071827"/>
+      <stop offset="1" stop-color="#020613"/>
     </linearGradient>
-    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(780 260) rotate(90) scale(260 650)">
-      <stop stop-color="#5EE7FF" stop-opacity="0.54"/>
-      <stop offset="0.3" stop-color="#3BC9F8" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#030B17" stop-opacity="0"/>
+    <radialGradient id="cinematicGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(740 260) rotate(90) scale(220 560)">
+      <stop offset="0" stop-color="#5EE8FF" stop-opacity="0.34"/>
+      <stop offset="0.28" stop-color="#2EC4F6" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#020613" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7DD3FC" stop-opacity="0.1"/>
-      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.8"/>
-      <stop offset="1" stop-color="#BCC7D6" stop-opacity="0.18"/>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7EE2FF" stop-opacity="0.08"/>
+      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#9BDCF0" stop-opacity="0.12"/>
     </linearGradient>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0C1E2F" stop-opacity="0.92"/>
-      <stop offset="1" stop-color="#091823" stop-opacity="0.68"/>
-    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feBlend in="SourceGraphic" in2="blur" mode="screen"/>
+    </filter>
   </defs>
 
   <rect width="1600" height="540" fill="url(#bg)"/>
-  <rect width="1600" height="540" fill="url(#cyanGlow)"/>
+  <rect width="1600" height="540" fill="url(#cinematicGlow)"/>
 
-  <g opacity="0.28" stroke="#A9D8E9" stroke-width="1">
-    <path d="M0 82H1600"/>
-    <path d="M0 170H1600"/>
-    <path d="M0 258H1600"/>
-    <path d="M0 346H1600"/>
-    <path d="M0 434H1600"/>
+  <!-- Subtle grid / reference lines for an aerospace aesthetic -->
+  <g opacity="0.22" stroke="#5DBEDC" stroke-width="1" stroke-linecap="square">
+    <path d="M0 96H1600"/>
+    <path d="M0 192H1600"/>
+    <path d="M0 288H1600"/>
+    <path d="M0 384H1600"/>
     <path d="M120 0V540"/>
-    <path d="M360 0V540"/>
-    <path d="M600 0V540"/>
-    <path d="M840 0V540"/>
-    <path d="M1080 0V540"/>
+    <path d="M420 0V540"/>
+    <path d="M720 0V540"/>
+    <path d="M1020 0V540"/>
     <path d="M1320 0V540"/>
   </g>
 
-  <g opacity="0.9">
-    <path d="M110 430H720" stroke="url(#line)" stroke-width="2"/>
-    <path d="M880 430H1490" stroke="url(#line)" stroke-width="2"/>
+  <!-- Primary panel and emblem -->
+  <g transform="translate(920 110)" opacity="0.96">
+    <rect x="0" y="0" width="520" height="320" rx="18" fill="#071827" fill-opacity="0.62" stroke="#1A2C3A"/>
+    <rect x="12" y="12" width="496" height="296" rx="12" fill="#071827" fill-opacity="0.28" stroke="url(#accentLine)" stroke-opacity="0.14"/>
+
+    <!-- stylized reactor orb -->
+    <g transform="translate(80 40)">
+      <circle cx="100" cy="120" r="72" fill="#02131A" stroke="#3ED0FF" stroke-opacity="0.28" stroke-width="2"/>
+      <circle cx="100" cy="120" r="44" fill="#06232C"/>
+      <circle cx="100" cy="120" r="18" fill="#67E8F9"/>
+      <g opacity="0.45" stroke="#7DE1FF" stroke-width="1">
+        <path d="M20 120 C40 80, 160 80, 180 120" stroke-linecap="round" fill="none"/>
+        <path d="M30 140 C60 170, 140 170, 170 140" stroke-linecap="round" fill="none"/>
+      </g>
+    </g>
+
+    <!-- panel circuits motif -->
+    <g transform="translate(220 36)" opacity="0.9">
+      <rect x="0" y="24" width="220" height="180" rx="6" fill="#081620"/>
+      <path d="M12 48H200" stroke="url(#accentLine)" stroke-width="2" stroke-linecap="round"/>
+      <path d="M12 88H200" stroke="#1E94A4" stroke-width="1" stroke-linecap="round" opacity="0.28"/>
+      <circle cx="34" cy="56" r="6" fill="#67E8F9" opacity="0.9"/>
+      <circle cx="56" cy="56" r="4" fill="#8FEAFF" opacity="0.6"/>
+      <path d="M34 72V188" stroke="#67E8F9" stroke-opacity="0.16"/>
+    </g>
   </g>
 
-  <g opacity="0.65">
-    <circle cx="356" cy="166" r="79" stroke="#64E0FF" stroke-opacity="0.42" stroke-width="1.5" fill="none"/>
-    <circle cx="356" cy="166" r="40" stroke="#64E0FF" stroke-opacity="0.26" stroke-width="1" fill="none"/>
-    <circle cx="1244" cy="192" r="86" stroke="#7DD3FC" stroke-opacity="0.26" stroke-width="1.5" fill="none"/>
-    <circle cx="1244" cy="192" r="48" stroke="#B8EAF8" stroke-opacity="0.2" stroke-width="1" fill="none"/>
-  </g>
-
-  <g opacity="0.95">
-    <path d="M1090 140L1248 140L1460 300L1248 460L1090 460L920 300L1090 140Z" fill="url(#panel)" stroke="#67E8F9" stroke-opacity="0.4"/>
-    <path d="M1090 140L1248 140L1369 300L1248 460L1090 460L972 300L1090 140Z" fill="#081A2A" fill-opacity="0.38" stroke="#8ADAE8" stroke-opacity="0.35"/>
-    <path d="M980 300H1266" stroke="#67E8F9" stroke-opacity="0.7" stroke-width="2"/>
-    <path d="M1090 180V420" stroke="#9BEAF9" stroke-opacity="0.38" stroke-width="1.5"/>
-    <path d="M1040 232H1160" stroke="#B0F4FF" stroke-opacity="0.8" stroke-width="2"/>
-    <path d="M1038 368H1162" stroke="#B0F4FF" stroke-opacity="0.8" stroke-width="2"/>
-    <circle cx="1090" cy="300" r="58" stroke="#67E8F9" stroke-opacity="0.9" stroke-width="1.5" fill="none"/>
-    <circle cx="1090" cy="300" r="22" fill="#67E8F9" fill-opacity="0.9"/>
-  </g>
-
+  <!-- Headline / Typographic focus -->
   <g>
-    <text x="108" y="120" fill="#B8C7D2" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" letter-spacing="10">XTOBE</text>
-    <text x="108" y="158" fill="#67E8F9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="6">INTELLIGENT SAFETY &amp; AI ENGINEERING</text>
+    <text x="108" y="132" fill="#9BCFEF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="8">XTOBE</text>
+    <text x="108" y="162" fill="#67E8F9" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" letter-spacing="4">INTELLIGENT SAFETY &amp; AI ENGINEERING</text>
 
-    <text x="108" y="246" fill="#E7F2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="1.6">BUILDING INTELLIGENCE</text>
-    <text x="108" y="312" fill="#E7F2FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="1.6">THAT PROTECTS LIVES.</text>
+    <text x="108" y="248" fill="#EAF6FF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700">BUILDING INTELLIGENCE</text>
+    <text x="108" y="304" fill="#EAF6FF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700">THAT PROTECTS LIVES.</text>
 
-    <text x="108" y="374" fill="#B8C7D2" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="4">WEARABLES · EDGE AI · SAFETY INTELLIGENCE · SECURE SYSTEMS</text>
+    <text x="108" y="352" fill="#B8DDEB" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" letter-spacing="2">WEARABLES · EDGE AI · SAFETY INTELLIGENCE · SECURE SYSTEMS</text>
 
-    <g transform="translate(108 420)">
-      <rect width="188" height="48" rx="14" fill="#091A2B" stroke="#67E8F9" stroke-opacity="0.6"/>
-      <text x="94" y="29" text-anchor="middle" fill="#E6F7FF" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">REACTOR</text>
+    <!-- Small signature -->
+    <text x="108" y="392" fill="#9BDCF0" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2">INTELLIGENCE WITH PURPOSE</text>
+  </g>
+
+  <!-- Product chips -->
+  <g transform="translate(108 418)">
+    <rect width="160" height="44" rx="12" fill="#071623" stroke="#3DD6FF" stroke-opacity="0.18"/>
+    <text x="80" y="28" text-anchor="middle" fill="#EAF6FF" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">REACTOR</text>
+
+    <g transform="translate(180 0)">
+      <rect width="140" height="44" rx="12" fill="#071623" stroke="#3DD6FF" stroke-opacity="0.12"/>
+      <text x="70" y="28" text-anchor="middle" fill="#D7EEF6" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">GUARDIAN</text>
     </g>
 
-    <g transform="translate(320 420)">
-      <rect width="170" height="48" rx="14" fill="#091A2B" stroke="#67E8F9" stroke-opacity="0.35"/>
-      <text x="85" y="29" text-anchor="middle" fill="#D7E6F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">GUARDIAN</text>
+    <g transform="translate(332 0)">
+      <rect width="120" height="44" rx="12" fill="#071623" stroke="#3DD6FF" stroke-opacity="0.12"/>
+      <text x="60" y="28" text-anchor="middle" fill="#D7EEF6" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">HERMES</text>
     </g>
 
-    <g transform="translate(512 420)">
-      <rect width="152" height="48" rx="14" fill="#091A2B" stroke="#67E8F9" stroke-opacity="0.35"/>
-      <text x="76" y="29" text-anchor="middle" fill="#D7E6F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">HERMES</text>
-    </g>
-
-    <g transform="translate(686 420)">
-      <rect width="156" height="48" rx="14" fill="#091A2B" stroke="#67E8F9" stroke-opacity="0.35"/>
-      <text x="78" y="29" text-anchor="middle" fill="#D7E6F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">COMMAND</text>
+    <g transform="translate(462 0)">
+      <rect width="120" height="44" rx="12" fill="#071623" stroke="#3DD6FF" stroke-opacity="0.12"/>
+      <text x="60" y="28" text-anchor="middle" fill="#D7EEF6" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">COMMAND</text>
     </g>
   </g>
 
-  <g opacity="0.8">
-    <path d="M780 90L860 132L940 90" stroke="#67E8F9" stroke-width="2" stroke-opacity="0.7"/>
-    <path d="M780 90L780 420" stroke="#67E8F9" stroke-width="1.5" stroke-opacity="0.25"/>
-    <path d="M940 90L940 420" stroke="#67E8F9" stroke-width="1.5" stroke-opacity="0.25"/>
-    <path d="M820 184H900" stroke="#B3E9FF" stroke-width="1.5" stroke-opacity="0.6"/>
-    <path d="M812 228H908" stroke="#B3E9FF" stroke-width="1.5" stroke-opacity="0.5"/>
-    <path d="M810 272H910" stroke="#B3E9FF" stroke-width="1.5" stroke-opacity="0.5"/>
-    <path d="M814 316H906" stroke="#B3E9FF" stroke-width="1.5" stroke-opacity="0.5"/>
-    <path d="M820 360H900" stroke="#B3E9FF" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- Subtle ambient accent lines to reinforce aerospace motif -->
+  <g stroke="#67E8F9" stroke-opacity="0.08" stroke-width="2">
+    <path d="M24 480H600"/>
+    <path d="M1000 480H1580"/>
   </g>
 
-  <g stroke="#9DECF9" stroke-opacity="0.32" fill="none">
-    <circle cx="1238" cy="194" r="104"/>
-    <circle cx="1238" cy="194" r="140"/>
-  </g>
 </svg>

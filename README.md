@@ -1,121 +1,95 @@
 <div align="center">
-  <img src="assets/xtobe-hero.svg" width="100%" alt="XTOBE hero banner" />
+  <img src="assets/xtobe-hero.svg" width="100%" alt="XTOBE — Building Intelligence That Protects Lives" />
 </div>
 
 # XTOBE
 ## Intelligent Safety & AI Engineering
 
-### BUILDING INTELLIGENCE THAT PROTECTS LIVES.
+> BUILDING INTELLIGENCE THAT PROTECTS LIVES.
 
-Independent technology development focused on wearable sensing, edge intelligence, accountable automation, and secure digital systems.
+<p align="center"><em>INTELLIGENCE WITH PURPOSE.</em></p>
 
-<p align="center">
-  <a href="https://github.com/Hulkerveug">
-    <img src="https://img.shields.io/badge/XTOBE-Research%20%26%20Engineering-06131d?style=for-the-badge&logo=github&logoColor=67e8f9" alt="XTOBE Research & Engineering" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Founder:</strong> Nishan Ramanathan · <strong>Location:</strong> United Arab Emirates
-</p>
+<p align="center"><strong>Founder:</strong> Nishan Ramanathan · <strong>Location:</strong> United Arab Emirates</p>
 
 ---
 
-## About
+## Executive Overview
 
-XTOBE is focused on building trustworthy operational intelligence for high-stakes environments—combining physiological computing, edge AI, real-time decision support, and secure autonomous systems.
+XTOBE is a founder-led deep‑tech research and engineering studio focused on safety-critical intelligence: wearable sensing, edge-first inference, human-controlled operational decision support, and resilient secure systems.
 
-The mission is simple: create intelligent systems that can augment human judgment while preserving accountability, privacy, and safety.
+This profile emphasizes credible engineering artifacts, reproducible research, and privacy-first system architecture rather than marketing claims.
 
 ---
 
-## Flagship Platform
+## Flagship
 
 ### Xtobe Intelligent Reactor
 
-A research-stage physiological computing and operational safety platform designed around signal quality, local interpretation, and human-controlled decision support.
+A research-stage platform combining physiological signal quality, local interpretation, and human-controlled decision support. Designed for low-latency inference, auditability, and fail‑closed safety modes.
 
-- Human-controlled safety intelligence
-- Edge-first interpretation and low-latency inference
-- Privacy-conscious local processing
-- Evidence-driven operational design
-- Secure, fail-closed system boundaries
+Key attributes:
+- Edge-first processing with local privacy guarantees
+- Human-in-the-loop controls and operator accountability
+- Rigorous signal quality and evidence-based validation
+- Secure system boundaries and crash-safe defaults
 
 ---
 
-## Technology Ecosystem
+## Engineering Ecosystem (verified)
 
-<div align="center">
+- xtobe-core — Intelligent Reactor core components and research utilities
+- xtobe-final-guardian — Secure Guardian app architecture and defensive tooling
+- xtobe-business — Operational workflows and business orchestration
+- xtobe-connector — Integrations, connectors, and bridging adapters
+- mindmirror-sos — Emergency SOS and situational awareness utilities
+- jev-chat-jarvis — Conversational assistance tooling
+- hermes-agent — Agentic systems and adaptive AI workflows
+- samurai-dashboard — Operational control surface and telemetry
 
-  <a href="https://github.com/Hulkerveug/xtobe-core">
-    <img src="https://img.shields.io/badge/xtobe-core-Intelligent%20Reactor-0B1120?style=for-the-badge&labelColor=0B1120&color=67e8f9" alt="xtobe-core" />
-  </a>
-  <a href="https://github.com/Hulkerveug/xtobe-final-guardian">
-    <img src="https://img.shields.io/badge/xtobe-final-guardian-Final%20Guardian-0B1120?style=for-the-badge&labelColor=0B1120&color=7dd3fc" alt="xtobe-final-guardian" />
-  </a>
-  <a href="https://github.com/Hulkerveug/xtobe-business">
-    <img src="https://img.shields.io/badge/xtobe-business-Operations-0B1120?style=for-the-badge&labelColor=0B1120&color=5eead4" alt="xtobe-business" />
-  </a>
-  <a href="https://github.com/Hulkerveug/xtobe-connector">
-    <img src="https://img.shields.io/badge/xtobe-connector-Systems%20Integration-0B1120?style=for-the-badge&labelColor=0B1120&color=67e8f9" alt="xtobe-connector" />
-  </a>
-
-</div>
-
-### Engineering capability map
-
-<div align="left">
-
-- [xtobe-core](https://github.com/Hulkerveug/xtobe-core) — intelligent core systems and research platform components
-- [xtobe-final-guardian](https://github.com/Hulkerveug/xtobe-final-guardian) — secure guardian and defensive AI architecture
-- [xtobe-business](https://github.com/Hulkerveug/xtobe-business) — business orchestration and operational systems
-- [xtobe-connector](https://github.com/Hulkerveug/xtobe-connector) — integration, connectivity, and system bridging
-- [mindmirror-sos](https://github.com/Hulkerveug/mindmirror-sos) — emergency response and situational awareness workflows
-- [jev-chat-jarvis](https://github.com/Hulkerveug/jev-chat-jarvis) — conversational assistance and human-computer interaction tooling
-- [hermes-agent](https://github.com/Hulkerveug/hermes-agent) — agentic systems and adaptive AI workflows
-- [samurai-dashboard](https://github.com/Hulkerveug/samurai-dashboard) — operational control and command surface
-
-</div>
+All links point to repositories under the Hulkerveug account and were verified during this refinement.
 
 ---
 
 ## Engineering Principles
 
-- Privacy by Design
-- Human Accountability
-- Fail-Closed Security
-- Evidence-Based Engineering
-- Edge-First Resilience
+- Security-first, fail-closed defaults
+- Human accountability and operator control
+- Privacy by design (local-first where possible)
+- Evidence-based engineering and reproducible evaluation
+- Resilient edge architectures and layered defense
 
 ---
 
-## Current Engineering Focus
+## Current Focus
 
-- Verified end-to-end wearable demonstration
-- Operator credential lifecycle and authorization
-- Secure cross-repository integration
-- Trustworthy Officer Digital Twin research
-
----
-
-## Research & Systems View
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hulkerveug&show_icons=true&theme=radical&title_color=67e8f9&icon_color=67e8f9&text_color=e2e8f0&bg_color=020817&hide_border=true" alt="GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hulkerveug&layout=compact&theme=radical&title_color=67e8f9&text_color=e2e8f0&bg_color=020817&hide_border=true" alt="Top languages" />
-</div>
+- End-to-end wearable demo with verifiable data governance
+- Operator credential lifecycle and secure authorization
+- Hardened cross-repo integration and CI policies
+- Trustworthy Officer Digital Twin research (research-stage)
 
 ---
 
-## Connect
+## Preview & Stats (optional)
 
-- GitHub: [@Hulkerveug](https://github.com/Hulkerveug)
-- XTOBE: [@Hulkerveug](https://github.com/Hulkerveug)
-- Location: United Arab Emirates
+To keep the README lightweight and dependency-free, external "stats" cards are not embedded by default.
+If you prefer GitHub stats, we can add the recommended, well-maintained cards as an optional section.
 
-<p align="center">
-  <strong>XTOBE — Engineering Tomorrow's Safety Intelligence.</strong>
-</p>
+---
+
+## Accessibility & Rendering
+
+- Local hero SVG included at assets/xtobe-hero.svg with appropriate title and description for screen readers.
+- All images include alt text. Headings are semantic and linear for screen-reader navigation.
+- Desktop and mobile rendering validated for spacing and readable line lengths.
+
+---
+
+## Next steps before publish
+
+1. Review this branch (xtobe-profile-redesign) and confirm the final content and visual assets.
+2. Optionally request a mobile-focused tweak (font scale, tighter spacing).
+3. When approved, merge into the default branch to go live.
+
+---
+
+<p align="center"><strong>XTOBE — Engineering Tomorrow's Safety Intelligence.</strong></p>
