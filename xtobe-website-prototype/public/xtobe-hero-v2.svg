@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">XTOBE cinematic hero for prototype</title>
+  <desc id="desc">A readable cinematic hero for local prototype use.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1"><stop offset="0%" stop-color="#050B18"/><stop offset="100%" stop-color="#142238"/></linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g1)"/>
+  <g fill="#DCE9F2" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="800" y="420" font-size="84" font-weight="700">XTOBE</text>
+    <text x="800" y="480" font-size="24" fill="#67E8F9">APEX 4.0 — Intelligent Systems Research</text>
+  </g>
+</svg>

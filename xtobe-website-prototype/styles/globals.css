@@ -1,0 +1,9 @@
+/* Basic global styles tuned for the prototype */
+:root{
+  --bg:#050B18;
+  --muted:#8196AF;
+  --cyan:#67E8F9;
+  --text:#DCE9F2;
+}
+html,body,#__next{height:100%;}
+body{margin:0;background:linear-gradient(180deg,var(--bg),#0C1525);color:var(--text);font-family:Inter,system-ui,Segoe UI,Arial}
