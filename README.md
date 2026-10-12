@@ -1,95 +1,88 @@
 <div align="center">
-  <img src="assets/xtobe-hero.svg" width="100%" alt="XTOBE — Building Intelligence That Protects Lives" />
+  <img src="assets/xtobe-apex-hero.svg" width="100%" alt="XTOBE APEX 3.0 — Intelligence beyond the interface." />
 </div>
 
 # XTOBE
-## Intelligent Safety & AI Engineering
+## APEX 3.0 — INTELLIGENCE BEYOND THE INTERFACE
 
-> BUILDING INTELLIGENCE THAT PROTECTS LIVES.
-
-<p align="center"><em>INTELLIGENCE WITH PURPOSE.</em></p>
+> ENGINEERING INTELLIGENCE THAT PROTECTS LIVES.
 
 <p align="center"><strong>Founder:</strong> Nishan Ramanathan · <strong>Location:</strong> United Arab Emirates</p>
 
----
-
-## Executive Overview
-
-XTOBE is a founder-led deep‑tech research and engineering studio focused on safety-critical intelligence: wearable sensing, edge-first inference, human-controlled operational decision support, and resilient secure systems.
-
-This profile emphasizes credible engineering artifacts, reproducible research, and privacy-first system architecture rather than marketing claims.
+XTOBE is a founder-led deep-tech research and engineering studio building safety-critical intelligence for human-first operations. The portfolio spans physiological sensing, edge-native inference, operator accountability, and research-grade validation for systems designed to protect life in high-consequence environments.
 
 ---
 
-## Flagship
+## Flagship program
 
-### Xtobe Intelligent Reactor
+### Intelligent Reactor
 
-A research-stage platform combining physiological signal quality, local interpretation, and human-controlled decision support. Designed for low-latency inference, auditability, and fail‑closed safety modes.
+A research-stage safety intelligence architecture integrating signal acquisition, local inference, human control, and accountable decision support.
 
-Key attributes:
-- Edge-first processing with local privacy guarantees
-- Human-in-the-loop controls and operator accountability
-- Rigorous signal quality and evidence-based validation
-- Secure system boundaries and crash-safe defaults
+- Physiological sensing and signal quality assessment
+- Edge-local interpretation with privacy boundaries
+- Human-in-the-loop oversight and operator accountability
+- Audit-friendly system boundaries and fail-closed defaults
 
----
-
-## Engineering Ecosystem (verified)
-
-- xtobe-core — Intelligent Reactor core components and research utilities
-- xtobe-final-guardian — Secure Guardian app architecture and defensive tooling
-- xtobe-business — Operational workflows and business orchestration
-- xtobe-connector — Integrations, connectors, and bridging adapters
-- mindmirror-sos — Emergency SOS and situational awareness utilities
-- jev-chat-jarvis — Conversational assistance tooling
-- hermes-agent — Agentic systems and adaptive AI workflows
-- samurai-dashboard — Operational control surface and telemetry
-
-All links point to repositories under the Hulkerveug account and were verified during this refinement.
+<img src="assets/xtobe-reactor-architecture.svg" width="100%" alt="Intelligent Reactor architecture diagram illustrating sensing, local intelligence, human control, and secure operations." />
 
 ---
 
-## Engineering Principles
+## Research and operational priorities
 
-- Security-first, fail-closed defaults
-- Human accountability and operator control
-- Privacy by design (local-first where possible)
-- Evidence-based engineering and reproducible evaluation
-- Resilient edge architectures and layered defense
+### 01 / REACTOR
+Human sensing and intelligence
 
----
+### 02 / GUARDIAN
+Digital protection systems
 
-## Current Focus
+### 03 / AGENTS
+Secure AI orchestration
 
-- End-to-end wearable demo with verifiable data governance
-- Operator credential lifecycle and secure authorization
-- Hardened cross-repo integration and CI policies
-- Trustworthy Officer Digital Twin research (research-stage)
+### 04 / COMMAND
+Operational intelligence
 
----
-
-## Preview & Stats (optional)
-
-To keep the README lightweight and dependency-free, external "stats" cards are not embedded by default.
-If you prefer GitHub stats, we can add the recommended, well-maintained cards as an optional section.
+These focus areas are intentionally framed as engineering programs rather than polished product claims. Status and validation remain evidence-based and conservative.
 
 ---
 
-## Accessibility & Rendering
+## Portfolio philosophy
 
-- Local hero SVG included at assets/xtobe-hero.svg with appropriate title and description for screen readers.
-- All images include alt text. Headings are semantic and linear for screen-reader navigation.
-- Desktop and mobile rendering validated for spacing and readable line lengths.
+XTOBE balances scientific ambition with disciplined engineering credibility:
 
----
-
-## Next steps before publish
-
-1. Review this branch (xtobe-profile-redesign) and confirm the final content and visual assets.
-2. Optionally request a mobile-focused tweak (font scale, tighter spacing).
-3. When approved, merge into the default branch to go live.
+- Secure-by-default architecture and privacy-aware systems
+- Human accountability in operational decision cycles
+- Evidence-based engineering with traceable verification
+- Clear distinction between research-stage and validated systems
 
 ---
 
-<p align="center"><strong>XTOBE — Engineering Tomorrow's Safety Intelligence.</strong></p>
+## Selected engineering themes
+
+- Physiological computing and wearable intelligence
+- Edge-first automation with low-latency local decision support
+- Safety-critical operational workflows and human oversight
+- Research infrastructure that respects confidentiality and data governance
+
+---
+
+## Evidence and verification
+
+Public claims are intentionally restrained. Verification is tracked in the project evidence registry and only elevated when concrete source links, commands, and outputs are available.
+
+- `XTOBE_PUBLIC_EVIDENCE.md` — evidence policy and public registry framework
+- `XTOBE_DESIGN_VALIDATION.md` — accessibility, rendering, and QA review
+- `XTOBE_APEX_BRAND_SYSTEM.md` — design system and creative direction
+
+---
+
+## Connect
+
+For research collaboration, strategic inquiry, or technical discussion, start with the public profile and project repositories under the XTOBE ecosystem.
+
+- GitHub: [Hulkerveug](https://github.com/Hulkerveug)
+- Profile branch: `xtobe-profile-redesign`
+
+---
+
+<p align="center"><strong>XTOBE — Engineering intelligence that protects lives.</strong></p>

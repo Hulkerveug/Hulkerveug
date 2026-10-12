@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">XTOBE Intelligent Reactor architecture</title>
+  <desc id="desc">A layered architecture diagram with sensing, local intelligence, human oversight, and secure action pathways.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#050B18"/>
+      <stop offset="100%" stop-color="#142238"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1">
+      <stop offset="0%" stop-color="#67E8F9"/>
+      <stop offset="100%" stop-color="#DCE9F2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="700" fill="url(#bg)"/>
+
+  <g opacity="0.25" stroke="#67E8F9" stroke-width="1.1" fill="none">
+    <path d="M150 350 H1050"/>
+    <path d="M600 120 V580"/>
+  </g>
+
+  <g>
+    <rect x="80" y="220" width="220" height="200" rx="18" fill="#0D1A2B" stroke="#67E8F9" stroke-width="2"/>
+    <rect x="340" y="150" width="220" height="330" rx="18" fill="#0D1A2B" stroke="#67E8F9" stroke-width="2"/>
+    <rect x="640" y="220" width="220" height="200" rx="18" fill="#0D1A2B" stroke="#67E8F9" stroke-width="2"/>
+    <rect x="900" y="150" width="220" height="330" rx="18" fill="#0D1A2B" stroke="#67E8F9" stroke-width="2"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" fill="#DCE9F2">
+    <text x="190" y="270" text-anchor="middle" font-size="26" font-weight="600">SENSE</text>
+    <text x="190" y="310" text-anchor="middle" font-size="18" fill="#8196AF">Signal capture</text>
+    <text x="190" y="340" text-anchor="middle" font-size="18" fill="#8196AF">Quality assessment</text>
+
+    <text x="450" y="220" text-anchor="middle" font-size="26" font-weight="600">LOCAL</text>
+    <text x="450" y="260" text-anchor="middle" font-size="18" fill="#8196AF">Inference</text>
+    <text x="450" y="290" text-anchor="middle" font-size="18" fill="#8196AF">Interpretation</text>
+    <text x="450" y="320" text-anchor="middle" font-size="18" fill="#8196AF">Decision logic</text>
+
+    <text x="750" y="270" text-anchor="middle" font-size="26" font-weight="600">HUMAN</text>
+    <text x="750" y="310" text-anchor="middle" font-size="18" fill="#8196AF">Oversight</text>
+    <text x="750" y="340" text-anchor="middle" font-size="18" fill="#8196AF">Accountability</text>
+
+    <text x="1010" y="220" text-anchor="middle" font-size="26" font-weight="600">SECURE</text>
+    <text x="1010" y="260" text-anchor="middle" font-size="18" fill="#8196AF">Action</text>
+    <text x="1010" y="290" text-anchor="middle" font-size="18" fill="#8196AF">Isolation</text>
+    <text x="1010" y="320" text-anchor="middle" font-size="18" fill="#8196AF">Fallback</text>
+  </g>
+
+  <g stroke="url(#cyan)" stroke-width="3" fill="none" opacity="0.95">
+    <path d="M300 320 H340"/>
+    <path d="M560 320 H640"/>
+    <path d="M860 320 H900"/>
+    <path d="M450 480 V560 H750 V480"/>
+  </g>
+
+  <g fill="#67E8F9" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="600" y="590" text-anchor="middle" font-size="20" font-weight="600">OPERATING MODEL</text>
+  </g>
+</svg>
