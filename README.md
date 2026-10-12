@@ -1,34 +1,121 @@
-### Hi there, I'm Nishan 👋 ### ⚡ Active Agent Infrastructure & AWS Stack
+<div align="center">
+  <img src="assets/xtobe-hero.svg" width="100%" alt="XTOBE hero banner" />
+</div>
 
-* **Autonomous Tooling:** Integrated [Agent Toolkit for AWS](https://github.com/aws/agent-toolkit-for-aws) across **Cursor** and **Cline** with automated Model Context Protocol (MCP) server links and local safety guardrails.
-* **Core Agent Runtimes:** Cline, Hermes, OpenClaw, and custom sovereign swarm setups.
-* **Cloud Infrastructure:** Multi-region AWS architecture combined with Cloudflare edge workers and automated FastAPI revenue pipelines.
-* **XTOBE PRIME Layer:** `xtobe/fusion_engine.py` + `xtobe/memory_store.py` — Tier 1 Fast Motor Loop (20ms) ↔ Tier 2 Semantic Twin, local-first encrypted SQLite, no raw kinematics leave device.
+# XTOBE
+## Intelligent Safety & AI Engineering
 
-* **XTOBE-Ai** | Republic of Panther 🐾
-* Guardian of the PC • Pure Dark Energy
-* Based in **Dubai, United Arab Emirates**
+### BUILDING INTELLIGENCE THAT PROTECTS LIVES.
 
----
+Independent technology development focused on wearable sensing, edge intelligence, accountable automation, and secure digital systems.
 
-### 🚀 About Me
-I build local, privacy-focused AI agent systems, automated workflows, and developer tools using Python, PowerShell, JavaScript, and FastAPI. My focus is on creating autonomous, seamless ecosystems that operate smoothly across desktop, mobile, and cloud environments.
+<p align="center">
+  <a href="https://github.com/Hulkerveug">
+    <img src="https://img.shields.io/badge/XTOBE-Research%20%26%20Engineering-06131d?style=for-the-badge&logo=github&logoColor=67e8f9" alt="XTOBE Research & Engineering" />
+  </a>
+</p>
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** Python, JavaScript, HTML/CSS, PowerShell, Kotlin
-* **AI & Automation:** Local LLMs (Ollama, Hermes Agent, Zhipu AI), Agentic Workflows
-* **Ecosystems:** FastAPI, Git/GitHub, Custom CLI Tools & Integrations
-
-### 📌 Pinned Repositories
-
-* **[MindMirror-production](https://github.com/Hulkerveug/MindMirror-production)** — JavaScript-driven interactive AI application layer designed for local personal context mirroring and voice interfaces.
-* **[hermes-agent](https://github.com/Hulkerveug/hermes-agent)** — Python-based intelligent agent framework that grows and adapts with you.
-* **[mindmirror-sos](https://github.com/Hulkerveug/mindmirror-sos)** — Emergency SOS utility integrating real-time GPS tracking and notification workflows.
-* **[The-ice-cubee](https://github.com/Hulkerveug/The-ice-cubee)** — Purely natural alum block aftershave product concept and antiseptic remedy layout.
-* **[xtobe-business](https://github.com/Hulkerveug/xtobe-business)** — Business management and client workflow modules.
+<p align="center">
+  <strong>Founder:</strong> Nishan Ramanathan · <strong>Location:</strong> United Arab Emirates
+</p>
 
 ---
 
-### 🔗 Connect
-* GitHub: [@Hulkerveug](https://github.com/Hulkerveug)
-* Location: Dubai, UAE
+## About
+
+XTOBE is focused on building trustworthy operational intelligence for high-stakes environments—combining physiological computing, edge AI, real-time decision support, and secure autonomous systems.
+
+The mission is simple: create intelligent systems that can augment human judgment while preserving accountability, privacy, and safety.
+
+---
+
+## Flagship Platform
+
+### Xtobe Intelligent Reactor
+
+A research-stage physiological computing and operational safety platform designed around signal quality, local interpretation, and human-controlled decision support.
+
+- Human-controlled safety intelligence
+- Edge-first interpretation and low-latency inference
+- Privacy-conscious local processing
+- Evidence-driven operational design
+- Secure, fail-closed system boundaries
+
+---
+
+## Technology Ecosystem
+
+<div align="center">
+
+  <a href="https://github.com/Hulkerveug/xtobe-core">
+    <img src="https://img.shields.io/badge/xtobe-core-Intelligent%20Reactor-0B1120?style=for-the-badge&labelColor=0B1120&color=67e8f9" alt="xtobe-core" />
+  </a>
+  <a href="https://github.com/Hulkerveug/xtobe-final-guardian">
+    <img src="https://img.shields.io/badge/xtobe-final-guardian-Final%20Guardian-0B1120?style=for-the-badge&labelColor=0B1120&color=7dd3fc" alt="xtobe-final-guardian" />
+  </a>
+  <a href="https://github.com/Hulkerveug/xtobe-business">
+    <img src="https://img.shields.io/badge/xtobe-business-Operations-0B1120?style=for-the-badge&labelColor=0B1120&color=5eead4" alt="xtobe-business" />
+  </a>
+  <a href="https://github.com/Hulkerveug/xtobe-connector">
+    <img src="https://img.shields.io/badge/xtobe-connector-Systems%20Integration-0B1120?style=for-the-badge&labelColor=0B1120&color=67e8f9" alt="xtobe-connector" />
+  </a>
+
+</div>
+
+### Engineering capability map
+
+<div align="left">
+
+- [xtobe-core](https://github.com/Hulkerveug/xtobe-core) — intelligent core systems and research platform components
+- [xtobe-final-guardian](https://github.com/Hulkerveug/xtobe-final-guardian) — secure guardian and defensive AI architecture
+- [xtobe-business](https://github.com/Hulkerveug/xtobe-business) — business orchestration and operational systems
+- [xtobe-connector](https://github.com/Hulkerveug/xtobe-connector) — integration, connectivity, and system bridging
+- [mindmirror-sos](https://github.com/Hulkerveug/mindmirror-sos) — emergency response and situational awareness workflows
+- [jev-chat-jarvis](https://github.com/Hulkerveug/jev-chat-jarvis) — conversational assistance and human-computer interaction tooling
+- [hermes-agent](https://github.com/Hulkerveug/hermes-agent) — agentic systems and adaptive AI workflows
+- [samurai-dashboard](https://github.com/Hulkerveug/samurai-dashboard) — operational control and command surface
+
+</div>
+
+---
+
+## Engineering Principles
+
+- Privacy by Design
+- Human Accountability
+- Fail-Closed Security
+- Evidence-Based Engineering
+- Edge-First Resilience
+
+---
+
+## Current Engineering Focus
+
+- Verified end-to-end wearable demonstration
+- Operator credential lifecycle and authorization
+- Secure cross-repository integration
+- Trustworthy Officer Digital Twin research
+
+---
+
+## Research & Systems View
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hulkerveug&show_icons=true&theme=radical&title_color=67e8f9&icon_color=67e8f9&text_color=e2e8f0&bg_color=020817&hide_border=true" alt="GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hulkerveug&layout=compact&theme=radical&title_color=67e8f9&text_color=e2e8f0&bg_color=020817&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+## Connect
+
+- GitHub: [@Hulkerveug](https://github.com/Hulkerveug)
+- XTOBE: [@Hulkerveug](https://github.com/Hulkerveug)
+- Location: United Arab Emirates
+
+<p align="center">
+  <strong>XTOBE — Engineering Tomorrow's Safety Intelligence.</strong>
+</p>
