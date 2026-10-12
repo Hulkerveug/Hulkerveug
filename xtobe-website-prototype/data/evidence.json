@@ -1,0 +1,22 @@
+[
+  {
+    "id": "xt-core-001",
+    "area": "xtobe-core",
+    "status": "Designed",
+    "summary": "Core repository and design artifacts for the Intelligent Reactor (research-stage).",
+    "evidenceUrl": "https://github.com/Hulkerveug/xtobe-core",
+    "method": "Repository and design documents",
+    "date": "2026-10-12",
+    "notes": "Populate with commit-level verification when available. Only mark implemented/tested if a traceable command and output exist."
+  },
+  {
+    "id": "guardian-001",
+    "area": "xtobe-final-guardian",
+    "status": "Concept",
+    "summary": "Secure Guardian app architecture and defensive tooling (concept).",
+    "evidenceUrl": "https://github.com/Hulkerveug/xtobe-final-guardian",
+    "method": "Architecture documents",
+    "date": "2026-10-12",
+    "notes": "Concept-stage: no operational claims."
+  }
+]

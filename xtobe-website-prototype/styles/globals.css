@@ -1,9 +1,23 @@
-/* Basic global styles tuned for the prototype */
+/* Global styles refined for APEX 4.1 */
 :root{
   --bg:#050B18;
   --muted:#8196AF;
   --cyan:#67E8F9;
   --text:#DCE9F2;
+  --panel: rgba(7,16,36,0.6);
 }
 html,body,#__next{height:100%;}
 body{margin:0;background:linear-gradient(180deg,var(--bg),#0C1525);color:var(--text);font-family:Inter,system-ui,Segoe UI,Arial}
+a{color:var(--cyan)}
+
+/* utility */
+.lead{line-height:1.45}
+
+/* reduced-motion preference */
+@media (prefers-reduced-motion: no-preference){
+  .hero-img{ transition: transform 450ms cubic-bezier(.2,.9,.2,1), box-shadow 250ms; }
+  .hero-img:hover{ transform: translateY(-6px); box-shadow: 0 22px 48px rgba(0,0,0,0.6); }
+}
+
+/* responsive container */
+.container{ max-width:1100px; margin: 0 auto; padding: 36px 20px }
